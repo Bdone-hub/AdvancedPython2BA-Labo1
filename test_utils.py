@@ -1,5 +1,5 @@
 # test_utils.py
-# Author: Sébastien Combéfis
+# Author: Sébastien Combéfisd
 # Version: February 8, 2018
 
 import unittest
